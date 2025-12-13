@@ -43,3 +43,4 @@
 
 ![Команда git status](screen/19.1.png) 
 ![Команда git status](screen/19.2.png) 
+![Команда git status](screen/20.png) 
