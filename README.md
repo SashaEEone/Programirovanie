@@ -20,3 +20,7 @@
 
 ![Команда git status](screen/10.png) 
 ![Команда git status](screen/9.png)
+
+### 11-12. Добавил изменения файла и посмотрел как сейчас выглядет git status
+
+![Команда git status](screen/11-12.png) 
