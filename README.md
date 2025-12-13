@@ -32,3 +32,27 @@
 ### 16-17. Добавил в stage и закоммитил последнее изменение, запушил на удаленный репо
 
 ![Команда git status](screen/16-17.png) 
+
+# Вторая часть
+
+### 1-2-3. Добавил в stage и закоммитил последнее изменение, запушил на удаленный репо
+
+![Команда git status](screen/18.png) 
+
+### 4-5. В git status изменилось: On branch main or On branch mybranch, далее убедился, что нахожусь на ветке - mybranch
+
+![Команда git status](screen/19.1.png) 
+![Команда git status](screen/19.2.png) 
+![Команда git status](screen/20.png) 
+
+### 6-7. Создал file.1.txt, добавил туда свое имя и закоммитил
+
+![Команда git status](screen/21-22.png) 
+
+### 8. Использую git log --oneline --graph, чтобы увидеть, что моя ветка указывает на новые коммиты
+
+![Команда git status](screen/23.png)
+
+### 9-10. Вернулся на ветку main, использовал git log --oneline --graph, изменилось: коммит из ветки mybranch не будет виден на ветки main   
+
+![Команда git status](screen/24-25.png)
