@@ -61,3 +61,8 @@
 
 ![Команда git status](screen/26.1.png)
 ![Команда git status](screen/26.2.png)
+
+### 13-14. Переходим на ветку mybranch и проверяем исчезновение file2.txt
+
+![Команда git status](screen/27-28.png)
+
