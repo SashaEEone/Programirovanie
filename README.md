@@ -66,3 +66,7 @@
 
 ![Команда git status](screen/27-28.png)
 
+### 15. Используя git diff mybranch main чтобы увидеть разницу между двумя ветками.
+
+![Команда git status](screen/29.png)
+
