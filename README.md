@@ -15,3 +15,8 @@
 ### 4. Как сейчас выглядет git status. P.S (я сразу стал делать add, commit и push, поэтому пропущу пункты до 9)
 
 ![Команда git status](screen/4.png)
+
+### 9-10. Добавил комментарий с любым текстом в этот же файл, git status выглядет так
+ 
+![Команда git status](screen/9.png)
+![Команда git status](screen/10.png)
