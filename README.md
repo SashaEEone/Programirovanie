@@ -44,3 +44,7 @@
 ![Команда git status](screen/19.1.png) 
 ![Команда git status](screen/19.2.png) 
 ![Команда git status](screen/20.png) 
+
+### 6-7. Создал file.1.txt, добавил туда свое имя и закоммитил
+
+![Команда git status](screen/21-22.png) 
