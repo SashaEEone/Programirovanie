@@ -52,3 +52,7 @@
 ### 8. Использую git log --oneline --graph, чтобы увидеть, что моя ветка указывает на новые коммиты
 
 ![Команда git status](screen/23.png)
+
+### 9-10. Вернулся на ветку main, использовал git log --oneline --graph, изменилось: коммит из ветки mybranch не будет виден на ветки main   
+
+![Команда git status](screen/24-25.png)
