@@ -38,3 +38,8 @@
 ### 1-2-3. Добавил в stage и закоммитил последнее изменение, запушил на удаленный репо
 
 ![Команда git status](screen/18.png) 
+
+### 4-5. В git status изменилось: On branch main or On branch mybranch, далее убедился, что нахожусь на ветке - mybranch
+
+![Команда git status](screen/19.1.png) 
+![Команда git status](screen/19.2.png) 
