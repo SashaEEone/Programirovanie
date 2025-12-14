@@ -70,3 +70,51 @@
 
 ![Команда git status](screen/29.png)
 
+
+# Задание на чертверку
+
+### 1. Переключаюсь на ветку mybranch
+
+![Команда git switch](chetverka/chet1.png)
+
+### 2. Перезапиcываю содержимое в sort.c
+
+![sort.c](chetverka/chet2.png)
+
+### 3-4. Использую git diff (смотрю, что поменялось) и git diff --staged (какие изменения в staged)
+
+![Команда git diff](chetverka/chet3.png)
+![Команда git diff --staged](chetverka/chet4.png)
+
+### 5-7. Добавляю в staged файл sort.c, смотрю, что говорит git diff и git diff --staged
+
+![Команда git add, diff, diff --staged](chetverka/chet5.png)
+
+### 8-10. Удаляю любое из чисел в массиве в sort.c, смотрю, что говорит git diff и git diff --staged
+
+![Команда git diff](chetverka/chet6.png)
+![Команда git diff](chetverka/chet7.png)
+
+### 11. Когда мы удалили число после git add, это новое изменение находится в рабочей директории, но не в staged
+
+### 12. Использовал git status и обратил внимание, что sort.c присутствует дважды в выводе.
+
+![Команда git status](chetverka/chet8.png)
+
+### 13-14. Использовал git restore --staged sort.c, чтобы отменить индексацию изменения , посмотрел, что говорит git status?
+
+![Команда git restore --staged, status](chetverka/chet9.png)
+
+### 15-16. Индексировал изменения и сделал коммит. Посмотрел как выглядет журнал
+
+![Команда git restore --staged, status](chetverka/chet10.png)
+
+### 17-18. Добавил в sort.c в main() printf(“hello git\n”);. Использовал cat, чтобы посмотреть содержимое
+
+![Команда cat](chetverka/chet11.png)
+
+### 19-22. Использовал git status, restore sort.c
+
+![Команда git status, restore](chetverka/chet12.png)
+![Команда git status](chetverka/chet13.png)
+
