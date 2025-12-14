@@ -118,3 +118,35 @@
 ![Команда git status, restore](chetverka/chet12.png)
 ![Команда git status](chetverka/chet13.png)
 
+# Вторая часть задание на чертверку
+
+### 1. Создал файл greeting.txt, проиндексировал его и закоммитил с сообщением “Add file greeting.txt” 
+
+![Команда git commit](chetverka/chet14.png)
+
+### 2. Добавил в этот файл слово hello, индексировал и коммитил с текстом "Add content to greeting.txt"  
+
+![Команда git add, commit](chetverka/chet15.png)
+
+### 3-5. Создал ветку с именем feature/uppercase, переключ. на неё, посмотрел, что в git status
+
+![Команда git branch, swtich, status](chetverka/chet16.png)
+
+### 6-8. Отредактировал greeting.txt (HELLO), сделал add и commit, далее посмотрел, что выводит branch
+
+![Команда git add, commit, branch](chetverka/chet17.png)
+
+### 9. Посмотрел каков вывод git log --oneline --graph --all
+
+![Команда git log --oneline --graph --all](chetverka/chet18.png)
+
+### 10-12. Переключ. на гл. ветку, использовал cat, чтобы увидеть содерж. нашего файла и сравнил ветки
+
+![Команда git switch, diff](chetverka/chet19.png)
+
+### 13-14. Объед. ветки и использовал cat, чтобы увидеть содерж. файла
+
+![Команда git merge](chetverka/chet20.png)
+
+### 15-19. Удалил новую ветку, смержил ветку  mybranch в main, посмотрел, что выводит git log --oneline --graph --all, запушил измен. и документ
+![Команда git branch -d, merge, push](chetverka/chet21.png)
