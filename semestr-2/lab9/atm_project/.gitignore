@@ -1,0 +1,4 @@
+*.o
+atm/atm
+atm/data/
+atm/tests/run_tests
